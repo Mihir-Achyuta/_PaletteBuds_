@@ -14,17 +14,17 @@ Access the [site](https://palettebuds.netlify.app/) here and get ready to make s
 
 ### Client
 
-- The client is a TypeScript + React + Redux web application styled with Material UI Components hosted on Netlify.
+- The client is a [TypeScript](https://www.typescriptlang.org/) + [React](https://reactjs.org/) + [Redux](https://redux.js.org/) web application styled with [Material UI Components](https://material-ui.com/) hosted on [Netlify](https://www.netlify.com/).
 
-- To store palettes for future use, the localStorage API is used to store them client side and React Router handles routing.
+- To store palettes for future use, the [localStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) is used to store them client side and [React Router](https://reactrouter.com/) handles routing.
 
-- ChromaJS and React Color are used for color conversion and generation and additional styles are in SASS modules.
+- [ChromaJS](https://gka.github.io/chroma.js/) and [React Color](https://casesandberg.github.io/react-color/) are used for color conversion and generation and additional styles are in SASS modules.
 
 ### Server
 
-- The server is built with TypeScript and Node and uses the Express framework to handle routes to create the API.
+- The server is built with [TypeScript](https://www.typescriptlang.org/) and [Node](https://nodejs.org/en/) and uses the [Express](https://expressjs.com/) framework to handle routes to create the API.
 
-- The original palettes are hosted and fetched on a MongoDB Atlas Cluster with the Mongoose ORM and the server is hosted on a Heroku Dyno.
+- The original palettes are hosted and fetched on a [MongoDB Atlas Cluster](https://www.mongodb.com/cloud/atlas) with the [Mongoose ORM](https://mongoosejs.com/) and the server is hosted on a [Heroku Dyno](https://www.heroku.com/dynos).
 
 ## Future Plans
 
