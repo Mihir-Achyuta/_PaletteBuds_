@@ -6,6 +6,14 @@
 
 - To get started, access the [site](https://palettebuds.netlify.app/) here.
 
+![PaletteBuds Home!](https://i.imgur.com/lARja5y.png)
+
+![PaletteBudsPic 2!](https://i.imgur.com/124EUPS.png)
+
+![PaletteBudsPic 3!](https://i.imgur.com/MWv2nbG.png)
+
+![PaletteBudsPic 4](https://i.imgur.com/VAat47k.png)
+
 ## Usage
 
 Access the [site](https://palettebuds.netlify.app/) here and get ready to make some palettes!
